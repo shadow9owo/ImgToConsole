@@ -14,4 +14,4 @@ sadly the images are low quality due 2 the fact that one space in a console != 1
 
 # example
 
-<img src="Capture.jpg"></img>
+<img src="Capture.JPG"></img>
