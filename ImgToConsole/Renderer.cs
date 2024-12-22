@@ -73,6 +73,8 @@ public class Renderer
                 throw new Exception($"File {path} was not found.");
             }
 
+            Console.CursorVisible = false;
+
             startcursorpos = new Utils.Vector2(Console.CursorLeft, Console.CursorTop);
 
             using (var image = new MagickImage(path))
@@ -98,7 +100,7 @@ public class Renderer
                 }
             }
 
-            Console.SetCursorPosition(Console.CursorLeft, (int)(Console.WindowHeight / step.Y));
+            Console.CursorVisible = true;
 
             return true;
         }
@@ -156,7 +158,7 @@ public class Renderer
 
             Console.ForegroundColor = ConsoleColor.Black;
 
-            Console.Write(".");
+            Console.Write(" ");
 
             Console.ResetColor();
 
