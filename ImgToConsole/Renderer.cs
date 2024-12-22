@@ -100,6 +100,8 @@ namespace ImgToConsole
                     }
                 }
 
+                Console.SetCursorPosition(Console.CursorLeft, (int)(Console.WindowHeight / step.Y));
+
                 return true;
             }
 
