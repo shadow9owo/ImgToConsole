@@ -5,3 +5,6 @@ based on Magick.NET (an image handling library)
 
 # Requirements
 .Net 4.0 or newer
+
+# What is this library for?
+This library adds image rendering functionality to dotnet console apps
