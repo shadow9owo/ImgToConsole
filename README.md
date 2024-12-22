@@ -4,4 +4,4 @@ An Image Console Rendering algorhythm
 based on Magick.NET (an image handling library)
 
 # Requirements
-.net 4.0
+.Net 4.0 or Equivalent
