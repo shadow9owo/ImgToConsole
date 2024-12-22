@@ -1,0 +1,12 @@
+X:\source\ImgToConsole\ImgToConsole\obj\Debug\ImgToConsole.csproj.AssemblyReference.cache
+X:\source\ImgToConsole\ImgToConsole\obj\Debug\ImgToConsole.csproj.CoreCompileInputs.cache
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\Magick.Native-Q8-x64.dll
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\ImgToConsole.dll
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\ImgToConsole.pdb
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\Magick.NET-Q8-x64.dll
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\Magick.NET.Core.dll
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\Magick.NET-Q8-x64.xml
+X:\source\ImgToConsole\ImgToConsole\bin\Debug\Magick.NET.Core.xml
+X:\source\ImgToConsole\ImgToConsole\obj\Debug\ImgToConsole.csproj.CopyComplete
+X:\source\ImgToConsole\ImgToConsole\obj\Debug\ImgToConsole.dll
+X:\source\ImgToConsole\ImgToConsole\obj\Debug\ImgToConsole.pdb
