@@ -12,6 +12,8 @@ This library adds image rendering functionality to dotnet console apps
 # Notes
 sadly the images are low quality due 2 the fact that one space in a console != 1 pixel which sucks
 
+fun fact ive wrote this after comming back from a horrorcore concert (reznik)
+
 # example
 
 <img src="Capture.JPG"></img>
